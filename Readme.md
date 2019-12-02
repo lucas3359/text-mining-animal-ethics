@@ -7,6 +7,7 @@
 
 ### Build vocabulary
 [Build Vocabulary.R](https://github.com/lucas3359/text-mining-AnimalEthics/blob/master/Build%20Vocabulary.R)
+
 [Build Vocabulary.py](https://github.com/lucas3359/text-mining-animal-ethics/blob/master/Build%20Vocabulary.py)
 
 1. Using key words that are confirmed as animal ethics related to build initial vocabulary
