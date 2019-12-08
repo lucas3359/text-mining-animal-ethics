@@ -6,7 +6,7 @@
 ## Procedure:
 
 ### Build vocabulary
-[Build Vocabulary.R](https://github.com/lucas3359/text-mining-AnimalEthics/blob/master/Build%20Vocabulary.R)
+[Build Vocabulary.R](https://github.com/lucas3359/text-mining-animal-ethics/blob/master/Build%20Vocabulary.R)
 
 [Build Vocabulary.py](https://github.com/lucas3359/text-mining-animal-ethics/blob/master/Build%20Vocabulary.py)
 
